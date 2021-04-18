@@ -1,3 +1,12 @@
+### Author ###
+Jonathan Lamoureux
+
+### Assignment Name ###
+Project 3
+
+### Date Due ###
+4/18/2021
+
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
